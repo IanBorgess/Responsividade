@@ -1,0 +1,11 @@
+main{
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+    max-width: 900px;
+    min-width: 320px;
+    background-color: grey;
+}
+img{
+    width: 100%;
+}

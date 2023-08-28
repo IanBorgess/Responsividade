@@ -1,0 +1,12 @@
+main{
+    background-color: grey;
+    padding: 50px;
+    margin: auto;
+    border-radius: 5px;
+    max-width: 640px;
+    min-width: 320px;
+}
+
+img{
+    width: 100%;
+}
